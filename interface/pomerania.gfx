@@ -1,0 +1,53 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ideology_pomeranian-liberalism_group"
+		texturefile = "gfx/interface/ideologies/pomeranian-liberalism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_european-dictature_group"
+		texturefile = "gfx/interface/ideologies/european-dictature_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_state-of-success_group"
+		texturefile = "gfx/interface/ideologies/state-of-success_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_trialism_group"
+		texturefile = "gfx/interface/ideologies/trialism_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_futurism_group"
+		texturefile = "gfx/interface/ideologies/futurism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_rainbow-socialism_group"
+		texturefile = "gfx/interface/ideologies/rainbow-socialism_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_true-socialism_group"
+		texturefile = "gfx/interface/ideologies/true-socialism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_freemarketism_group"
+		texturefile = "gfx/interface/ideologies/freemarketism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_weldism_group"
+		texturefile = "gfx/interface/ideologies/weldism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_borysten-system_group"
+		texturefile = "gfx/interface/ideologies/borysten-system.dds"
+	}
+
+}

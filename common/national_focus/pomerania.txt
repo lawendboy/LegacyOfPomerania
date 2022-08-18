@@ -1,0 +1,79 @@
+focus_tree = {
+	id = pomeranian_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = POM
+		}
+
+		#modifier = {
+		#	add = 10
+		#	original_tag = AST
+		#	has_dlc = "Together for Victory"
+		#}
+	}
+	
+	default = no
+	
+	continuous_focus_position = { x = 50 y = 1000 }
+
+	focus = {
+		id = POM_pomerania-the-greatest
+		icon = GFX_goal_generic_treaty
+		x = 6
+		y = 0
+
+		cost = 0
+	}
+
+	focus = {
+		id = POM_here-comes-the-election
+		icon = GFX_goal_generic_construction
+
+		prerequisite = { focus = POM_pomerania-the-greatest }
+	
+		x = -3
+		y = 1
+
+		cost = 10
+	}
+
+#	focus = {
+#		id = AST_
+#		icon = GFX_goal_generic_construction
+#		prerequisite = { focus = }
+#		mutually_exclusive = { focus =  }
+#		x = -1
+#		y = 0
+#		relative_position_id = 
+#
+#		cost = 10
+#
+#		ai_will_do = {
+#			factor = 1
+#		}
+#
+#		available = {
+#
+#		}
+#		
+#		bypass = {
+#
+#		}
+#
+#		cancel_if_invalid = yes
+#		continue_if_invalid = no
+#		available_if_capitulated = no
+#
+#		complete_tooltip = {
+#
+#		}
+#
+#		completion_reward = {
+#
+#		}
+#	}
+}

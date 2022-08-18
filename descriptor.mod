@@ -1,0 +1,16 @@
+version="1.11.12"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Ideologies"
+	"Utilities"
+	"Translation"
+	"Technologies"
+	"National Focuses"
+	"Military"
+	"Map"
+}
+name="Legacy of Pomerania. Last days of good endings."
+supported_version="1.11.12"
