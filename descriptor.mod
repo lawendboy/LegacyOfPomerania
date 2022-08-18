@@ -1,7 +1,6 @@
 version="1.11.12"
 tags={
 	"Alternative History"
-	"Events"
 	"Gameplay"
 	"Graphics"
 	"Ideologies"
