@@ -103,15 +103,6 @@ units = {
 	division= {	
 		division_name = {
 				is_name_ordered = yes
-				name_order = 3
-		}
-		location = 478
-		division_template = "Infanterie-Division"
-		start_experience_factor = 0.3
-	}
-	division= {	
-		division_name = {
-				is_name_ordered = yes
 				name_order = 23
 		}
 		location = 478
@@ -172,30 +163,6 @@ units = {
 		}
 		location = 6402
 		division_template = "Infanterie-Division"
-		start_experience_factor = 0.3
-	}
-	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 11
-		}
-		location = 266
-		division_template = "Infanterie-Division"
-		start_experience_factor = 0.3
-	}
-	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 21
-		}
-		location = 3384
-		division_template = "Infanterie-Division"
-		start_experience_factor = 0.3
-	}
-	division= {	
-		name = "Kavallerie-Kommando Insterburg" 
-		location = 281
-		division_template = "Kavallerie-Brigade"
 		start_experience_factor = 0.3
 	}
 
@@ -278,16 +245,6 @@ units = {
 	}
 
 	# V. Armeekorps
-	division= {	
-		division_name = {
-				is_name_ordered = yes
-				name_order = 5
-		}
-		location = 9517
-		division_template = "Infanterie-Division"
-		start_experience_factor = 0.3
-	}
-
 	# VII. Armeekorps
 	division= {	
 		division_name = {
